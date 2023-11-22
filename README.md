@@ -20,7 +20,7 @@ This project is a simple implementation of steganography, a technique for hiding
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/steganography-project.git
+    git clone https://github.com/gauravjha-hackerboy/Steganography-Hiding-text-in-image.git
     cd steganography-project
     ```
 
